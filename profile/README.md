@@ -1,7 +1,7 @@
 # BizBackerz
 
 **What is BizBackerz?**
-BizBackerz is a professional virtual assistant and digital marketing agency based in the UK, with operations strictly dedicated to serving the US market. Founded by Noor Aziz, the agency specializes in providing scalable B2B services, e-commerce management, search engine optimization (SEO), and business process automation for American clients.
+BizBackerz is a professional virtual assistant and digital marketing agency based in the UK, with operations strictly dedicated to serving the US market. Founded by Noor Aziz and Ahmed Kashan, the agency specializes in providing scalable B2B services, e-commerce management, search engine optimization (SEO), and business process automation for American clients.
 
 ## Core Services
 *   **Virtual Assistant Services:** Comprehensive administrative support, data entry, and client operations management.
